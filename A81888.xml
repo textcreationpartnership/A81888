@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The general doctrine of equation reduced into brief precepts. In III chapters. derived from the works of the best modern analysts. / By Michael Dary, Philomath.</title>
+            <author>Dary, Michael.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81888</idno>
+            <idno type="STC">Wing D276A</idno>
+            <idno type="STC">ESTC R174435</idno>
+            <idno type="EEBO-CITATION">43663276</idno>
+            <idno type="OCLC">ocm 43663276</idno>
+            <idno type="VID">172025</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81888)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172025)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2608:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The general doctrine of equation reduced into brief precepts. In III chapters. derived from the works of the best modern analysts. / By Michael Dary, Philomath.</title>
+                  <author>Dary, Michael.</author>
+               </titleStmt>
+               <extent>[5], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nath. Brook at the Angel in Cornhill.</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's device facing t.p.: Angel with quill, flanked by inits. NB.</note>
+                  <note>Imperfect: tightly bound, and with print show-through, and loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Equations.</term>
+               <term>Mathematics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172025:1"/>
+            <p>THE General Doctrine OF Equation Reduced into brief Precepts. <hi>In III. Chapters.</hi>
+            </p>
+            <p>Derived from the Works of the beſt Modern Analyſts.</p>
+            <p>
+               <hi>By</hi> MICHAEL DARY, <hi>Philomath.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Nath. Brook</hi> at the Angel in Cornhill. 1664.</p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:172025:2"/>
+            <p>
+               <figure>
+                  <figDesc>bookplate</figDesc>
+                  <p>N B</p>
+               </figure>
+            </p>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:172025:2" rendition="simple:additions"/>
+            <pb facs="tcp:172025:3"/>
+            <pb facs="tcp:172025:3"/>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>ABout a Year and an half ſince there came to my peruſal the incomparable Treatiſe of <hi>Florimondo de Beaun,</hi> of the na<g ref="char:EOLhyphen"/>ture and limits of <hi>Equations;</hi> the con<g ref="char:EOLhyphen"/>templation whereof cauſed me (<hi>rudi Minerva</hi>) to draw up <hi>The Doctrine of Equation</hi> for my own uſe; and perceiving that the later part of the aforeſaid Treatiſe about the Limits of Equa<g ref="char:EOLhyphen"/>tions might be ſpared, and ſupplied by the poſſi<g ref="char:EOLhyphen"/>bility of the firſt Figure of the Root, I communi<g ref="char:EOLhyphen"/>cated my Obſervations of this nature to others, who deſirous thereof have inclined me to publiſh the ſame to ſave the trouble of Tranſcription. Now if my dim Taper may adminiſter any light to others, I have obtained my ambition, which is to be accounted</p>
+            <closer>
+               <signed>A Lover and Servitor to Art and Artiſts, MICHAEL DARY.</signed>
+               <dateline>London, <date>Jan. 1. 1664.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172025:4"/>
+            <pb n="1" facs="tcp:172025:4"/>
+            <head>The Doctrine of EQUATION compriſed in three Chapters.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. Of Equation, and the true ſtating and purging of a Mathematical queſtion, whereby (if need be) to bring it to one Equation.</head>
+               <p n="1">
+                  <hi>
+                     <seg rend="decorInit">E</seg>Quation</hi> is when one Quantity is equal to one Quantity, or when one Quantity is equal to many Quantities, or when many Quan<g ref="char:EOLhyphen"/>tities are equal to many Quantities.</p>
+               <p n="2">2. Any Equation may be <hi>re<g ref="char:EOLhyphen"/>duced</hi> to a new Homogeneal Equation, if each ſide be augmented or diminiſhed equally by Addition, Subſtraction, Multiplication, Diviſion, Involution or Devolution.</p>
+               <p n="3">3. Any Mathematical Queſtion may be propo<g ref="char:EOLhyphen"/>ſed in an Equation, or in ſeveral Equations, cohe<g ref="char:EOLhyphen"/>rent in reſpect of the unknown quantities.</p>
+               <p n="4">4. Therefore when a Queſtion of this nature is propoſed, and Reſolution deſired, let there be put (Symbolically) for every quantity therein men<g ref="char:EOLhyphen"/>tioned ſome Letter of the Alphabet, (for the known quantities thoſe Letters towards the beginning of the Alphabet; and for the unknown, thoſe Letters towards the later end of the Alphabet:) then ſhall
+<pb n="2" facs="tcp:172025:5"/>
+you ſtate the whole buſineſs of the Queſtion <hi>by Ra<g ref="char:EOLhyphen"/>tiocination thereto requiſite,</hi> (for which purpoſe you ought to be ſufficiently furniſhed with Analytical ſtore) into an Equation, or into ſeveral coherent Equations: which coherent Equations ought to be one to another irreducible or heterogeneal.</p>
+               <p n="5">5. If (in a queſtion ſo ſtated) the unknown Symbols be more then the Equations, that queſti<g ref="char:EOLhyphen"/>on is <hi>impertinent,</hi> and capable of an infinite num<g ref="char:EOLhyphen"/>ber of Anſwers: But if the unknown Symbols be not more then the Equations, that queſtion is <hi>pertinent,</hi> and not capable of an infinite number of Anſwers.</p>
+               <p n="6">6. If the queſtion propoſed be pertinent, and ſtated into ſeveral Equations, you ſhall (by the 2. hereof) <hi>purge</hi> thoſe Equations of all the un<g ref="char:EOLhyphen"/>known Symbols, excepting that which is deſired to be known; and ſo the queſtion will ſtand in one Equation.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="3" facs="tcp:172025:5"/>
+               <head>CHAP. II. Of clearing and trimming an Equation, whereby to know (what Roots and how many it hath, viz.) the Conſtitution thereof.</head>
+               <p n="1">1. IF there be any Fractions in the Equation, let them be cleared of their Nominators by Ch. 1. Sect. 2. Alſo by the ſame let the Surd Roots be taken away if there be any.</p>
+               <p n="2">2. If the unknown Symbol be found in all the Terms, you ſhall clear as many of the Terms of it as may be cleared by Chap. 1. Sect. 2. But if all the Terms may be cleared, that Equation is <hi>identical.</hi>
+               </p>
+               <p n="3">3. If there be a <hi>Cofactor</hi> in the firſt Term, let it be cleared away, (if it may be done without Fractionizing any other Term) by Chap. 1. Sect. 2.</p>
+               <p n="4">4. Let all thoſe Terms on the right ſide of the Equation be tranſpoſed to the left by Chap. 1. Sect. 2.</p>
+               <p n="5">5. Let all Homogeneal Terms be gathered into one Term by the preſcription of their Signs and Cofactors: placing the higheſt Poteſtate of the un<g ref="char:EOLhyphen"/>known Symbol firſt, (moſt ſiniſterly) and the reſt of the inferiour Poteſtates ſucceeding in their order, the <hi>abſolute</hi> being laſt; and on the right ſide of the Equation put a Cypher.</p>
+               <p n="6">6. If the Abſolute be affirmed, you ſhall make it denied by changing all the Signs throughout the
+<pb n="4" facs="tcp:172025:6"/>
+Equation; ſo is the Equation <hi>cleared.</hi>
+               </p>
+               <p n="7">7. This done, you ſhall expugne all the known Symbols, and put their reſpective Numbers in their rooms; and now you may call it <hi>a trimm'd Equation.</hi>
+               </p>
+               <p n="8">8. Every trimm'd Equation hath ſo many Roots as is intimated by the Index of the unknown Sym<g ref="char:EOLhyphen"/>bol in the firſt Term, whereof there are ſo many true Roots, as the Signs (in their order) have Changes, and the reſt are falſe Roots.</p>
+               <p n="9">9. A [ true / falſe ] Root of a trimm'd Equation is a number or quantity [ greater / leſſer ] then nothing, which wrought according to the Conſcription of the un<g ref="char:EOLhyphen"/>known Symbol, the reſult is [ alwayes / ſometimes ] equal to no<g ref="char:EOLhyphen"/>thing.</p>
+               <p n="10">10. In a trimm'd Equation having all the Pote<g ref="char:EOLhyphen"/>ſtates of the unknown Symbol extant, if you change the Signs in even places, the true Roots are turned to falſe Roots, and the falſe Roots to true.</p>
+               <p n="11">11. In a trimm'd Equation, having all the Po<g ref="char:EOLhyphen"/>teſtates of the unknown Symbol extant, if you change the Signs in even places,</p>
+               <list>
+                  <item>The Cofactor in the ſecond Term is equal to the ſumme of all the ſingle Roots. <hi>Multiplied by the Co<g ref="char:EOLhyphen"/>factor in the firſt term.</hi>
+                  </item>
+                  <item>The Cofactor in the third Term is equal to the ſumme of the Facts of every two Roots. <hi>Multiplied by the Co<g ref="char:EOLhyphen"/>factor in the firſt term.</hi>
+                  </item>
+                  <item>The Cofactor in the fourth Term is equal to the ſumme of the Facts of every three Roots, &amp;c. <hi>Multiplied by the Co<g ref="char:EOLhyphen"/>factor in the firſt term.</hi>
+                  </item>
+               </list>
+               <pb n="5" facs="tcp:172025:6"/>
+               <p n="12">12. In every trimm'd Equation the unknown Symbol is <hi>arbitrarily</hi> equal to any one of the Roots (whether true or falſe) as conſtituting the Equa<g ref="char:EOLhyphen"/>tion propoſed.</p>
+               <p n="13">13. If therefore to the unknown Symbol a true Root be connexed with the Sign − or a falſe Root with the Sign +; every ſuch Connexion may not unfitly be called <hi>an equated Binomial.</hi>
+               </p>
+               <p n="14">14. Every trimm'd Equation is <hi>conſtituted</hi> by the Fact of all its equated Binomials; multiplied by the Cofactor in the firſt Term.</p>
+               <p n="15">15. All trimm'd Equations, wherein the Signs are not changed, are <hi>always</hi> impoſsible: yea and <hi>ſometimes</hi> (alſo) although the Signs are changed, as in ſome pretended trimm'd Equations.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="6" facs="tcp:172025:7"/>
+               <head>CHAP. III. Of the conſtruction and uſe of the Canon, whereby the poſſibility or impoſſibility of any trimm'd Equa<g ref="char:EOLhyphen"/>tion is diſcovered, as alſo one of the true Roots <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>educed in number, and conſequently all the reſt of the true Roots.</head>
+               <p n="1">1. LEt the Abſolute Number be tranſpoſed to the right ſide of the Equation, and then you may call it <hi>the Reſolvend.</hi>
+               </p>
+               <p n="2">2. Now if you ſubſtitute in the room of the unknown Symbol, any Binomial; as (if you pleaſe) <hi>l+n:</hi> then are all the Poteſtates of <hi>l+n</hi> equal to all the like Poteſtates of the unknown Symbol, which Poteſtates of <hi>l+n</hi> being orderly placed do make up the <hi>Canon</hi> for the Equation propoſed.</p>
+               <p n="3">3. Let the Reſolvend be placed on the right ſide of the Canon, with the Sign of Equati<g ref="char:EOLhyphen"/>on between them, and draw a curved line on the right ſide of the Reſolvend for a Quotient or Re<g ref="char:EOLhyphen"/>ceptacle for the <hi>queſitious root.</hi>
+               </p>
+               <p n="4">4. Beginning at the place of Units, let the Re<g ref="char:EOLhyphen"/>ſolvend be pointed into Periods, as it intimated by the ſeveral Poteſtates of the unknown Symbol, <hi>viz.</hi> for a Root every ſingle Figure, for a Square every ſecond Figure, for a Cube every third Fi<g ref="char:EOLhyphen"/>gure, and ſo on; extending toward the left hand for a whole Number, but towards the right hand for a Decimal Fraction; completing the Reſol<g ref="char:EOLhyphen"/>vend
+<pb n="7" facs="tcp:172025:7"/>
+with Cyphers if need be, for there muſt be as many Periods for one Poteſtate as another, and no more; of which Periods ſo ſeated, one of every ſort of the ſame gradual diſtance from the place of Units, are called <hi>a congruent ſet.</hi>
+               </p>
+               <p n="5">5. Having thus limited the Reſolvend by Pun<g ref="char:EOLhyphen"/>ctation, you ſhall put for the firſt Figure of the Root, (<hi>viz.</hi> for <hi>l</hi>) the greateſt Figure that may be; <hi>always provided</hi> that thoſe parcels in the Ca<g ref="char:EOLhyphen"/>non which have not the Secundary Root <hi>n</hi> in them, being collected according to the firſt, (if need be, ſecond or third, &amp;c.) congruent ſet of Periods into one Reſult, may be ſubducted from the correſpon<g ref="char:EOLhyphen"/>dent part of the Reſolvend limited by Punctation; and the Remainer retaining the ſame Sign with the Reſolvend, muſt be always leſs then the <hi>ſucceeding Diviſor.</hi>
+               </p>
+               <p n="6">6. (Subduction being made, let all thoſe par<g ref="char:EOLhyphen"/>cels in the Canon which have not the Secundary Root <hi>n</hi> in them be expugned, for they are no more to be uſed.)</p>
+               <p n="7">7. Now and henceforward in the enquiry for every ſucceeding Figure of the Root, <hi>l</hi> ſhall repre<g ref="char:EOLhyphen"/>ſent (or be equal to) that part of the Root already found; and <hi>n</hi> ſhall repreſent that next ſucceeding Figure of the Root which is enquired for.</p>
+               <p n="8">8. To the Remainer you ſhall regularly draw down ſo much of the Reſolvend as is limited by the laſt Period of the <hi>next</hi> congruent ſet of Periods, makes your <hi>Minorand,</hi> having the ſame Sign with the Reſolvend.</p>
+               <pb n="8" facs="tcp:172025:8"/>
+               <p n="9">9. That there may be ſome light exhibited fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the chuſing of the next ſucceeding Figure of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Root, the known part of the Canon (for therein i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nothing unknown but <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) being collected accor<g ref="char:EOLhyphen"/>ding to the <hi>precedent</hi> Congruent ſet of Periods in<g ref="char:EOLhyphen"/>to one Reſult makes your <hi>Diviſor,</hi> having the ſame Sign with the Reſolvend; the laſt Remainer decuplicated being your <hi>Dividend.</hi>
+               </p>
+               <p n="10">10. (But if there cannot be ſuch a Diviſor made as is required by the 5. hereof, that Equation is <hi>im<g ref="char:EOLhyphen"/>poſſible;</hi> if there may, it is <hi>poſſible.</hi>)</p>
+               <p n="11">11. By enquiry and ſome trial you ſhall put for the next ſucceeding Figure of the Root, (<hi>viz.</hi> for <hi>n</hi>) the greateſt Figure that may be; <hi>always provided</hi> that <hi>l</hi> being decuplicated, the whole Canon (for now therein is nothing unknown) being collected according to the <hi>preſent</hi> congru<g ref="char:EOLhyphen"/>ent ſet of Periods into one Reſult, may make a <hi>Subducend,</hi> having the ſame Sign with the Reſol<g ref="char:EOLhyphen"/>vend; which being ſubducted from the foreſaid Minorand, the Remainer retaining the ſame Sign, muſt be always leſs then the ſucceeding Di<g ref="char:EOLhyphen"/>viſor.</p>
+               <p n="12">12. And ſo you may proceed to find every Fi<g ref="char:EOLhyphen"/>gure of the Root, repeating the 8, 9, and 11. here<g ref="char:EOLhyphen"/>of, leaving out the 10, for if the firſt Figure of the Root be poſsible, all the reſt are poſsible.</p>
+               <p n="13">13. Now if it be required to find another of the unknown true Roots, (if there be any) let the Equa<g ref="char:EOLhyphen"/>tion as it ſtood trimm'd by Chap. 2. Sect. 7. be di<g ref="char:EOLhyphen"/>vided
+<pb n="9" facs="tcp:172025:8"/>
+by the equated Binomial, <hi>viz.</hi> the unknown Symbol leſs the new-known Root: and the Quo<g ref="char:EOLhyphen"/>tient is a trimm'd Equation, (one degree low<g ref="char:EOLhyphen"/>er then the Dividend) conſtituted (Ch. 2. Sect. 14.) by the Fact of all the remaining equated Binomials, multiplied by the Cofactor in the firſt Term.</p>
+               <p>Therefore you may proceed to find that other true Root required, (and conſequently all the reſt of the true Roots one after another, if need be) by repeating this whole Chapter, excepting the 10 hereof; for if one true root be poſsible, all the reſt are poſsible.</p>
+               <closer>Laus Deo.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POST-SCRIPT.</head>
+            <p>THe former Precepts are general, and (as the Au<g ref="char:EOLhyphen"/>thor conceives) neither redundant nor deficient, and are explained in the Examples of other learned Analyſts, as in Mr. <hi>Oughtreds</hi> Clavis, and Mr. <hi>Moores</hi> Specious Arithmetick joyned with his Conick Sections, books of excellent uſe, ſold by <hi>Nath. Brook.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
